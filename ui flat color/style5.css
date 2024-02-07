@@ -1,0 +1,210 @@
+.maindiv{
+    display: flex;
+   
+    /* flex-wrap: wrap; */
+   
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+    border: 2px solid springgreen;
+    background-color: springgreen;
+    border-radius: 10px;
+    margin: 50px;
+    color: rgb(226, 13, 13);
+}
+span{
+    font-size: x-large;
+    font-weight: bold;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    color: rgb(226, 13, 13);
+   margin-left: 300px;
+
+}
+#lightyellow{
+    background-color:#eccc68;
+    /* border: 2px solid #f6e58d; */
+    width: 180px;
+    height: 120px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#lightorange{
+    width: 180px;
+    height: 120px;
+    background-color: #ff7f50;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#lightred{
+    width: 180px;
+    height: 120px;
+    background-color:#ff6b81;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#lightgreen{
+    width: 180px;
+    height: 120px;
+    background-color:#a4b0be;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#lightblue{
+    width: 180px;
+    height: 120px;
+    background-color:#57606f;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#f9ca24{
+    
+    width: 180px;
+    height: 120px;
+    background-color:#ffa502;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+    
+}
+#f0932b{  
+    width: 180px;
+    height: 120px;
+    background-color: #ff6348;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#eb4d4b{  
+    width: 180px;
+    height: 120px;
+    background-color: #ff4757;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#ab0{  
+    width: 180px;
+    height: 120px;
+    background-color: #747d8c;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c7ecee{  
+    width: 180px;
+    height: 120px;
+    background-color: #2f3542;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#ed6df{  
+    width: 180px;
+    height: 120px;
+    background-color:#7bed9f;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#e056fd{  
+    width: 180px;
+    height: 120px;
+    background-color:#70a1ff;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c686de0{  
+    width: 180px;
+    height: 120px;
+    background-color:#5352ed;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c30336b{  
+    width: 180px;
+    height: 120px;
+    background-color:#ffffff;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c95afc0{  
+    width: 180px;
+    height: 120px;
+    background-color:#dfe4ea;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+  
+}
+#c22a6b3{
+  width: 180px;
+    height: 120px;
+    background-color:#2ed573;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#be2edd{
+  width: 180px;
+    height: 120px;
+    background-color:#1e90ff;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c4834d4{
+  width: 180px;
+    height: 120px;
+    background-color:#3742fa;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c130f40{
+  width: 180px;
+    height: 120px;
+    background-color:#f1f2f6;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}
+#c535c68{
+  width: 180px;
+    height: 120px;
+    background-color:#ced6e0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 10px;
+}

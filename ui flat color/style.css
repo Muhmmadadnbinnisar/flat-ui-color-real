@@ -1,0 +1,27 @@
+body{
+    background-color: #4d91ff93;
+}
+.main{
+    display: flex;
+    /* width: 800px; */
+    flex-wrap: wrap;
+
+}
+.div2{
+    background-color: rgb(255, 255, 255);
+    width: 190px;
+    height: 150px;
+    margin: 60px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size:large;
+    font-weight: bold;
+}
+img{
+    border: 0px solid rgb(252, 252, 252);
+    box-shadow: 2px 1px 5px  white ;
+    border-radius: 20px;
+    width: 180px;
+    height: 110px;
+    padding:5px;
+}
